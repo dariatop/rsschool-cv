@@ -3,7 +3,7 @@
 # Daria Pavlova
 #### *Junior Frontend Developer*
 
-*******
+******
 
 ## Contacts
 - **Location:** Georgia, Tbilisi
